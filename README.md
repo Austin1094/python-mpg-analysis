@@ -15,6 +15,9 @@ Through analysis, I gained a deeper understanding of the factors influencing fue
 
 ## Questions?
 Feel free to ask any questiond you may have by reaching out to the following:
+
 Gitub: https://github.com/Austin1094
+
 Email: Austin.Adams1094@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/austinjadms/
