@@ -1,6 +1,9 @@
 # MPG Analysis
 A project to showcase skills in Python for data analytics.
 
+<img width="1580" alt="mpg-analysis-project" src="https://github.com/Austin1094/python-mpg-analysis/assets/125158045/b1a03a3a-20c0-4eec-9302-cb56d3610468">
+
+
 ## Description
 In this project, I conducted a comprehensive analysis of fuel economy trends using the mpg dataset. My analysis delved into various aspects of fuel efficiency, including its relationship with factors such as horsepower, number of cylinders, model year, and country of origin. 
 
